@@ -1,0 +1,12 @@
+{
+  "name": "craftify",
+  "version": "0.0.1",
+  "description": "A tool for crafting and organizing ui library",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/farhadeidi/craftify",
+    "type": "git"
+  },
+  "author": "Farhad Eidi",
+  "license": "MIT"
+}
